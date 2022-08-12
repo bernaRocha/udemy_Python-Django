@@ -1,4 +1,3 @@
-from email import message
 import platform
 
 version = platform.python_version()
